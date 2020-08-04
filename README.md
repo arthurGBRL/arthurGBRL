@@ -1,5 +1,8 @@
-### Hi there 👋
+### Eaí! 👋
 
+- 🔭 Atualmente trabalhando em um modelo de livraria online para o Digital House;
+- 🌱 Atualmente aprendendo webdev com foco em Java;
+- 💬 Me pergunte sobre jogos, animes e série;
 <!--
 **arthurGBRL/arthurGBRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
