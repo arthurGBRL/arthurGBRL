@@ -1,8 +1,14 @@
-### Eaí! 👋
+# Arthur Gabriel
 
-- 🔭 Atualmente trabalhando em um modelo de livraria online para o Digital House;
-- 🌱 Atualmente aprendendo webdev com foco em Java;
-- 💬 Me pergunte sobre jogos, animes e série;
+## Olá pessoal 👋
+Ainda estou me aprofundadno no mundo da programação!
+
+ <br/> :computer: &nbsp; Programo em Python e Javascript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Valorant, LoL e animes
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ArthurGabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/arthur-gabriel/)](https://www.linkedin.com/in/arthur-gabriel/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-arthurgog@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurgog@hotmail.com)](mailto:arthurgog@hotmail.com)
+
 <!--
 **arthurGBRL/arthurGBRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
