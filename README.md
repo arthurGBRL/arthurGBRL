@@ -1,7 +1,7 @@
 # Arthur Gabriel
 
 ## Olá pessoal 👋
-Ainda estou me aprofundadno no mundo da programação!
+Ainda estou me aprofundando no mundo da programação!
 
  <br/> :computer: &nbsp; Programo em Python e Javascript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Valorant, LoL e animes
